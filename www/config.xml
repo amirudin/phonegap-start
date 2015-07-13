@@ -43,6 +43,7 @@
    
 
     <!-- Plugins -->
+    <gap:plugin name="org.bcsphere.bluetooth" version="0.5.1" />
 
     <!-- Core plugins -->
     <gap:plugin name="org.apache.cordova.battery-status" />
